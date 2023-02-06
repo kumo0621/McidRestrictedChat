@@ -1,0 +1,4 @@
+name: McidRestrictedChat
+version: '${project.version}'
+main: com.github.kumo0621.mcidrestrictedchat.McidRestrictedChat
+api-version: 1.16
